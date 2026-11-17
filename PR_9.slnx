@@ -3,6 +3,13 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Lab_9_1_VS/Lab_9_1/Lab_9_1.vcxproj" />
-  <Project Path="Lab_9_1_VS/UnitTest91/UnitTest91.vcxproj" />
+  <Folder Name="/9.1/">
+    <Project Path="Lab_9_1_VS/Lab_9_1/Lab_9_1.vcxproj" Id="eaa36faf-9b8f-4eae-afed-ae9bcbb82b2c" />
+    <Project Path="Lab_9_1_VS/UnitTest91/UnitTest91.vcxproj" Id="0722810f-986f-4975-83f8-bab8ae414b3b" />
+  </Folder>
+  <Folder Name="/9.2/">
+    <Project Path="Lab_9_2_VS/Lab_9_2_1/Lab_9_2_1.vcxproj" Id="92987a42-f72b-4d08-bcd9-16a795734c7e" />
+    <Project Path="Lab_9_2_VS/Lab_9_2_2/Lab_9_2_2.vcxproj" Id="151ba2b1-d1e5-4767-8871-8c3bf8020d14" />
+    <Project Path="Lab_9_2_VS/UnitTest92/UnitTest92.vcxproj" Id="9bf5eda4-2663-4e94-9658-8d94bee309c5" />
+  </Folder>
 </Solution>
