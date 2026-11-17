@@ -1,0 +1,7 @@
+﻿// sum.h — заголовний файл: оголошення функції обчислення суми ряду
+#pragma once
+
+namespace nsSum
+{
+    void sum();
+}
