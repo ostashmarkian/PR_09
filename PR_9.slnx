@@ -9,7 +9,6 @@
   </Folder>
   <Folder Name="/9.2/">
     <Project Path="Lab_9_2_VS/Lab_9_2_1/Lab_9_2_1.vcxproj" Id="92987a42-f72b-4d08-bcd9-16a795734c7e" />
-    <Project Path="Lab_9_2_VS/Lab_9_2_2/Lab_9_2_2.vcxproj" Id="151ba2b1-d1e5-4767-8871-8c3bf8020d14" />
     <Project Path="Lab_9_2_VS/UnitTest92/UnitTest92.vcxproj" Id="9bf5eda4-2663-4e94-9658-8d94bee309c5" />
   </Folder>
 </Solution>
